@@ -1,7 +1,7 @@
-# test-app-4
+# Book app
 
 ## Project setup
-```
+
 npm install
 ```
 

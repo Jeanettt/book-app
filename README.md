@@ -9,10 +9,8 @@ The source code of this project is located at the source-code branch.
 To view the project locally:
 * download the code
 * open in your IDE
-* run 
-    npm -i"
-* run
-    npm run serve
+* run ```npm -i```
+* run ```npm run serve```
 
 ## Approach
 1. First I watch tutorials from Vue Mastery.

@@ -7,7 +7,7 @@ To see the page I created visit https://jeanettt.github.io/book-app
 ## View source code
 The source code of this project is located at the source-code branch. 
 To view the project locally:
-* download the code
+* download the code from the source-code
 * open in your IDE
 * run ```npm -i```
 * run ```npm run serve```
